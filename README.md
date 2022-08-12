@@ -49,13 +49,15 @@ In essence, a shell is a program that takes user commands from the command line 
 * write (man 2 write)
 # USAGE
 ## Prerequisites
-To use our simple shell, ensure you have:
-* git installed.
-* Ubuntu 20.04 LTS 
+To use our simple shell, ensure you have installed:
+* git.
+* Ubuntu 20.04 LTS/ any linux distribution.
 * gcc 7.3 or below
 
 **Step 1** : Clone this repository
+<copy-button>
     git clone https://github.com/Akoth-Otieno/simple_shell
+<copy-button>
 
 **Step 2** : Make sure you are in the directory containing the simple shell.
     cd simple_shell
