@@ -55,18 +55,24 @@ To use our simple shell, ensure you have installed:
 * gcc 7.3 or below
 
 **Step 1** : Clone this repository
-<copy-button>
-    git clone https://github.com/Akoth-Otieno/simple_shell
-<copy-button>
+````
+git clone https://github.com/Akoth-Otieno/simple_shell
+````
 
 **Step 2** : Make sure you are in the directory containing the simple shell.
-    cd simple_shell
+````
+cd simple_shell
+````
 
 **Step 3** : Compile all the c files in the directory as follows:
-    gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
+````
+gcc -Wall -Werror -Wextra -pedantic *.c -o shell
+````
 
 **Step4** : Run the shell
-    ./hsh
+````
+./shell
+````
 
 
 
