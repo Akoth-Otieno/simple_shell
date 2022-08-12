@@ -47,4 +47,25 @@ In essence, a shell is a program that takes user commands from the command line 
 * wait3 (man 2 wait3)
 * wait4 (man 2 wait4)
 * write (man 2 write)
+# USAGE
+## Prerequisites
+To use our simple shell, ensure you have:
+* git installed.
+* Ubuntu 20.04 LTS 
+* gcc 7.3 or below
+
+**Step 1** : Clone this repository
+    git clone https://github.com/Akoth-Otieno/simple_shell
+
+**Step 2** : Make sure you are in the directory containing the simple shell.
+    cd simple_shell
+
+**Step 3** : Compile all the c files in the directory as follows:
+    gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
+
+**Step4** : Run the shell
+    ./hsh
+
+
+
 
