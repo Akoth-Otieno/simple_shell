@@ -78,9 +78,11 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o shell
 ## Authors/Collaborators
 * Dorine Tipo 
 > Find me on github: https://github.com/MissTipo
+
 > Contact me: dorine.a.tipo@gmail.com
 * Elsie Akoth 
-> Find me on github: https://github.com/Akoth-Otieno OR  https://github.com/ElsieLearnsToCode
+> Find me on github: https://github.com/Akoth-Otieno
+
 > Contact me: elsieakoth21@gmail.com
 
 ## LICENSE
